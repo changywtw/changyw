@@ -1,0 +1,51 @@
+body
+{
+    font-size: 20px; 
+}
+#name_row
+{
+    margin-bottom: 30px;
+}
+.name
+{
+    font-size: 36px;
+}
+.current_lab
+{
+    font-size: 24px;
+}
+.block
+{
+    margin-top: 15px;
+    margin-bottom: 15px; 
+}
+.title
+{
+    font: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.subblock
+{
+    margin-left: 10px;
+    margin-bottom: 10px; 
+    border-left: 3px solid #fbb;
+    
+}
+.subtitle
+{
+    color: #999; 
+    padding-left: 10px;
+}
+.content
+{ 
+    margin-left: 10px;
+    padding-left: 10px;
+} 
+
+.schedule-col
+{
+    text-align:center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
